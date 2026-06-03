@@ -1,5 +1,6 @@
 A cross-platform desktop application for browsing, organizing, and previewing local media collections — built from scratch in Java and JavaFX.
 
+![](Resources/ClearViewDemo.gif)
 
 # Why I built this
 Normal gallery applications tend lower the quality of images, force you behind a cloud subscription, or simply don't provide a visual way of organizing your files. Not to mention, the privacy of your files! This project was built for people like you, me, and my beloved mother, who need a fast, private, and fully local gallery manager.
